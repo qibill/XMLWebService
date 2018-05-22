@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+    <invoice>
+        <amount precision="2">403.77</amount>
+        <tax precision="2">24.23</tax>
+    </invoice>
+</result>
